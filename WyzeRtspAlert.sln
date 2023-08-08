@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyzeRtspAlert", "WyzeRtspAlert\WyzeRtspAlert.csproj", "{A1995436-620A-439B-970E-2CDCFB433771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyzeRtspAlert.DL", "WyzeRtspAlert.DL\WyzeRtspAlert.DL.csproj", "{A9F8C0C8-A05E-4F6E-BC6F-58036DDB9892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyzeRtspAlert.DL.Test", "WyzeRtspAlert.DL.Test\WyzeRtspAlert.DL.Test.csproj", "{2B7B5C3B-CE0D-4CC3-BE72-CA6BECF8DAE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyzeRtspAlert.DL.Interface", "WyzeRtspAlert.DL.Interface\WyzeRtspAlert.DL.Interface.csproj", "{705FD5A4-64E3-4BE9-A945-ECC706920B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchImageTest.Shared.Test", "FetchImageTest.Shared.Test\FetchImageTest.Shared.Test.csproj", "{28DC9E37-5D14-4219-B4B6-BC5EB061283C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyzeRtspAlert.Shared", "WyzeRtspAlert.Shared\WyzeRtspAlert.Shared.csproj", "{19824F76-9154-4BF3-B3E3-ECF07D944DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1995436-620A-439B-970E-2CDCFB433771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1995436-620A-439B-970E-2CDCFB433771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1995436-620A-439B-970E-2CDCFB433771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1995436-620A-439B-970E-2CDCFB433771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F8C0C8-A05E-4F6E-BC6F-58036DDB9892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F8C0C8-A05E-4F6E-BC6F-58036DDB9892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F8C0C8-A05E-4F6E-BC6F-58036DDB9892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F8C0C8-A05E-4F6E-BC6F-58036DDB9892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7B5C3B-CE0D-4CC3-BE72-CA6BECF8DAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7B5C3B-CE0D-4CC3-BE72-CA6BECF8DAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7B5C3B-CE0D-4CC3-BE72-CA6BECF8DAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7B5C3B-CE0D-4CC3-BE72-CA6BECF8DAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705FD5A4-64E3-4BE9-A945-ECC706920B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705FD5A4-64E3-4BE9-A945-ECC706920B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705FD5A4-64E3-4BE9-A945-ECC706920B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705FD5A4-64E3-4BE9-A945-ECC706920B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DC9E37-5D14-4219-B4B6-BC5EB061283C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DC9E37-5D14-4219-B4B6-BC5EB061283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DC9E37-5D14-4219-B4B6-BC5EB061283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DC9E37-5D14-4219-B4B6-BC5EB061283C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19824F76-9154-4BF3-B3E3-ECF07D944DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19824F76-9154-4BF3-B3E3-ECF07D944DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19824F76-9154-4BF3-B3E3-ECF07D944DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19824F76-9154-4BF3-B3E3-ECF07D944DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C70AA8A-A423-4A26-946C-B1DF22300806}
+	EndGlobalSection
+EndGlobal
