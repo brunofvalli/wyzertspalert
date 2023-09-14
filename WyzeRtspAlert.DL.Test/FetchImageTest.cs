@@ -19,6 +19,12 @@ namespace WyzeRtspAlert.DL.Test
             var password = "MavieAnnie";
 
             fetchImage.Fetch(address, userName, password);
+
+            while(true)
+            {
+                Thread.Sleep(1000);
+            }
+
             Assert.Pass();
         }
     }

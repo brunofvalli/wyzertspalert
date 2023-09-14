@@ -49,8 +49,6 @@ namespace WyzeRtspAlert.DL
                 await rtspClient.ConnectAsync(token);
                 await rtspClient.ReceiveAsync(token);
             }
-
-
         }
     }
 }
