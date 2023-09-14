@@ -17,4 +17,9 @@
     <PackageReference Include="coverlet.collector" Version="3.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WyzeRtspAlert.DL.Interface\WyzeRtspAlert.DL.Interface.csproj" />
+    <ProjectReference Include="..\WyzeRtspAlert.DL\WyzeRtspAlert.DL.csproj" />
+  </ItemGroup>
+
 </Project>

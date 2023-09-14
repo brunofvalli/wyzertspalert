@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="RtspClientSharp" Version="1.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WyzeRtspAlert.DL.Interface\WyzeRtspAlert.DL.Interface.csproj" />
+  </ItemGroup>
+
 </Project>
